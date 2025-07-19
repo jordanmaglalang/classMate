@@ -1,1 +1,1 @@
-# classMate
+# ClassMate
